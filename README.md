@@ -20,7 +20,7 @@ This repository is organized into the following folders:
 
 - **Course Code:** ENG102  
 - **Course Title:** Introduction to Composition  
-- **Instructor:** [Shapla Parveen](https://www.northsouth.edu/faculty-members/shss/eml/shapla.parveen.html)  
+- **Instructor:** [Shapla Parveen[SPn]](https://www.northsouth.edu/faculty-members/shss/eml/shapla.parveen.html)  
 - **Department:** English and Modern Languages  
 - **Program:** Undergraduate  
 - **Semester:** **SUMMER 2019**  
@@ -116,7 +116,7 @@ Upon successful completion of the course, students will be able to:
 
 ## 👩‍🏫 Instructor Details
 
-- **Name:** [Shapla Parveen](https://www.northsouth.edu/faculty-members/shss/eml/shapla.parveen.html)  
+- **Name:** [Shapla Parveen[SPn]](https://www.northsouth.edu/faculty-members/shss/eml/shapla.parveen.html)  
 - **Department:** English and Modern Languages  
 - **Institution:** North South University  
 
